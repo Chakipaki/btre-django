@@ -1,0 +1,27 @@
+body {
+    background: #333;
+}
+
+.module {
+    background: #333;
+}
+
+#header {
+    background: #10284e;
+    color: #fff;
+}
+
+#branding h1 {
+    color: #fff;
+}
+
+div.breadcrumbs {
+    background: #30caa0;
+    color: #10284e;
+    font-weight: 500;
+}
+
+
+div.breadcrumbs a {
+    color: #333;
+}
